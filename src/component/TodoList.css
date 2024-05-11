@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+
+  .card{
+    width: 400px;
+    background-color: aliceblu !important;
+    font-weight: bolder;
+    margin: auto;
+  }
+
+  .form-control{
+    height: 50px;
+    border-radius: 10px;
+  }
+
+  .itemdiv{
+    width: 300px;
+    margin-bottom: -60px;
+  }
+
+  .btn-close{
+    display: none;
+  } 
+.h3{
+  font-weight: bold;
+}
+
+  .itemdiv:hover .btn-close{
+    display: block;
+    width: 1px;
+    height: 1px;
+    padding: 20px !important;
+    margin-top: 14px;
+    margin-right: 50px !important;
+    background-color:#14a44d;
+    border-radius: 25%  !important;
+  } 
+ 
+
+  
